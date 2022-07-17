@@ -1,0 +1,19 @@
+<channels>
+<channel>
+<name>[B]Rocky Live TV[/B]</name>
+<thumbnail></thumbnail> Small pic
+<externallink></externallink>
+<fanart></fanart> Bic pic
+<info>[B]Rocky Live TV[/B]</info>
+</channels>
+</channel>
+
+<channels>
+<channel>
+<name>[B]Rocky Live TV[/B]</name>
+<thumbnail></thumbnail> Small pic
+<externallink></externallink>
+<fanart></fanart> Bic pic
+<info>[B]Rocky Live TV[/B]</info>
+</channels>
+</channel>
