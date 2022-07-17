@@ -1,8 +1,8 @@
 <channels>
 <channel>
 <name>[B]Rocky Live TV[/B]</name>
-<thumbnail>https://raw.githubusercontent.com/RockyBalboa2022/Rocky_Live_TV_Kodi_19/main/Rocky_Live_TV.m3u</thumbnail> Small pic
-<externallink></externallink>
+<thumbnail></thumbnail> Small pic
+<externallink>https://raw.githubusercontent.com/RockyBalboa2022/Rocky_Live_TV_Addon/main/Rocky_Live_TV.txt</externallink>
 <fanart></fanart> Bic pic
 <info>[B]Rocky Live TV[/B]</info>
 </channels>
