@@ -10,7 +10,17 @@
 
 <channels>
 <channel>
-<name>[B]Rocky[/B]</name>
+<name>[B]Rocky Movies[/B]</name>
+<thumbnail>https://ia601504.us.archive.org/8/items/icon_20220717_202207/icon.png</thumbnail> Small pic
+<externallink></externallink>
+<fanart>https://ia601502.us.archive.org/22/items/fanart_20220717/fanart.jpg</fanart> Bic pic
+<info>[B]Rocky Live TV[/B]</info>
+</channels>
+</channel>
+
+<channels>
+<channel>
+<name>[B]Rocky Series[/B]</name>
 <thumbnail>https://ia601504.us.archive.org/8/items/icon_20220717_202207/icon.png</thumbnail> Small pic
 <externallink></externallink>
 <fanart>https://ia601502.us.archive.org/22/items/fanart_20220717/fanart.jpg</fanart> Bic pic
