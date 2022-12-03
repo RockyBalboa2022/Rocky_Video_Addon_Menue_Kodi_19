@@ -14,7 +14,7 @@
 <thumbnail>https://ia601504.us.archive.org/8/items/icon_20220717_202207/icon.png</thumbnail> Small pic
 <externallink>https://raw.githubusercontent.com/RockyBalboa2022/Rocky_Movies_Folder_TXT/main/Poland_Movies.txt</externallink>
 <fanart>https://ia601502.us.archive.org/22/items/fanart_20220717/fanart.jpg</fanart> Bic pic
-<info>[B]Rocky Live TV[/B]</info>
+<info>[B]Rocky Movies[/B]</info>
 </channels>
 </channel>
 
@@ -22,8 +22,8 @@
 <channel>
 <name>[B]Rocky Series[/B]</name>
 <thumbnail>https://ia601504.us.archive.org/8/items/icon_20220717_202207/icon.png</thumbnail> Small pic
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/RockyBalboa2022/Rocky_Series_Menu/main/Rocky_Series_Menu.txt</externallink>
 <fanart>https://ia601502.us.archive.org/22/items/fanart_20220717/fanart.jpg</fanart> Bic pic
-<info>[B]Rocky Live TV[/B]</info>
+<info>[B]Rocky Series[/B]</info>
 </channels>
 </channel>
